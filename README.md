@@ -8,7 +8,7 @@ If interested, please contact `widget@talkheap.com` I will reply to you as soon 
 
 You can view our official website to customize your widget, which is completely free.
 
-`https://talkheap.com/`
+<a href="https://talkheap.com/">`https://talkheap.com/`
 
 Example：
 
